@@ -1,2 +1,2 @@
-git commit --amend
+git pull origin main
 
